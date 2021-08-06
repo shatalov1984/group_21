@@ -1,0 +1,11 @@
+Структура баг репорта
+
+ID 
+Summary (краткое описание)
+Project (проект)
+Component (компонент приложения)
+Version (номер версии)
+Severity (серьезность)
+Priority (приоритет)
+Status (статус)
+Autgor
